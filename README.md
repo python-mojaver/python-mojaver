@@ -1,64 +1,148 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Babak Mojaver
 
-### Python Backend Developer | AI Agents & Automation | Robotics
+### Python Backend Developer | AI Agent Developer | Robotics
 
-I am a Python developer focused on building scalable backend systems, AI-powered applications, intelligent agents, and robotics solutions.
+**Building intelligent applications, scalable backend systems, and real-world AI solutions.**
 
-I enjoy turning real-world challenges into practical software, from RESTful APIs and database-driven systems to computer vision, voice assistants, and robotic applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babak-mojaver/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojaver.programmer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/python-mojaver)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Backend development with **Python, FastAPI, and Django**
-- 🤖 Building **AI Agents, intelligent assistants, and automation workflows**
-- 🧠 Exploring **LLMs, Computer Vision, and Speech Recognition**
-- 🦾 Developing **robotics applications and robot integrations**
-- 🗄️ Working with **PostgreSQL, SQLAlchemy, and Redis**
-- 🎓 Teaching **Python and Artificial Intelligence**
-- 🌱 Continuously improving my skills in AI engineering and software architecture
+I'm a Python developer specializing in backend engineering, AI-powered applications, intelligent agents, automation, and robotics.
+
+My focus is on designing practical software solutions that combine reliable backend architecture with modern AI capabilities.
+
+- 💻 Developing backend applications using **Python, FastAPI & Django**
+- 🤖 Building **AI Agents, intelligent assistants & automation workflows**
+- 🧠 Working with **LLMs, Computer Vision & Speech Recognition**
+- 🦾 Integrating **robotics software, Android applications & robot SDKs**
+- 🗄️ Designing database-driven applications with **PostgreSQL, SQLAlchemy & Redis**
+- 🎓 Teaching **Python & Artificial Intelligence**
+- 🌐 Experienced in **IT Infrastructure, Networking & System Administration**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Kotlin
+### Languages & Backend
 
-**Backend:** FastAPI, Django, REST APIs, SQLAlchemy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Databases & Caching:** PostgreSQL, Redis
+### Databases & Infrastructure
 
-**AI & Computer Vision:** OpenCV, YuNet, SFace, Whisper, LLM Integration
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**AI Agents & Automation:** AI Assistants, Agent Workflows, n8n, API Integration
+### AI, Agents & Automation
 
-**Robotics:** Robot SDK Integration, Android, Voice Interfaces, Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-6D28D9?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Integration-0F766E?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-Speech_AI-2563EB?style=for-the-badge)
 
-**Tools:** Git, GitHub, Docker, VS Code, Android Studio
+### Development Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🤖 AI Agents & Intelligent Automation
+
+I work on AI-powered solutions that connect language models, APIs, automation workflows, and real-world applications.
+
+**Areas of focus:**
+
+- AI-powered virtual assistants
+- LLM and external API integration
+- Intelligent workflow automation with Python and n8n
+- Speech-to-text and text-to-speech interfaces
+- AI-powered robotics and computer vision
+- Backend APIs for intelligent applications
+
+---
 
 ## 📌 Featured Projects
 
 ### 🎮 [FastAPI Game Backend](https://github.com/python-mojaver/fastapi-game-backend)
-Backend architecture for a multiplayer game application using FastAPI and PostgreSQL.
 
-### 🤖 [HTN Robot Assistant](https://github.com/python-mojaver/HTNRobotAssistant)
-Android robotics application for Timo robot control, native microphone capture, speech recognition, WebView integration, and robot SDK connectivity.
+Backend architecture for a multiplayer game application built with FastAPI and PostgreSQL.
 
-### 🧠 [Timo AI Robot Assistant](https://github.com/python-mojaver/Timo-AI-Robot-Assistant)
-AI-powered robotics assistant project exploring speech interfaces and intelligent robot interactions.
+**Technologies:** Python, FastAPI, PostgreSQL, SQLAlchemy
 
-## 🎯 Areas of Interest
+### 🦾 [HTN Robot Assistant](https://github.com/python-mojaver/HTNRobotAssistant)
 
-- AI Agent Development & LLM Applications
-- Backend Engineering & API Development
-- Robotics & Intelligent Automation
-- Computer Vision & Speech AI
-- Real-World AI Product Development
+An Android robotics application developed for controlling and communicating with the Timo robot.
 
-## 🤝 Let's Connect
+**Features:**
+- Robot control integration
+- Native microphone capture
+- Speech recognition integration
+- WebView communication
+- Robot SDK connectivity
 
-- 💼 LinkedIn: [Babak Mojaver](https://www.linkedin.com/in/babak-mojaver/)
-- 💻 GitHub: [python-mojaver](https://github.com/python-mojaver)
-- 📧 Email: mojaver.programmer@gmail.com
+**Technologies:** Kotlin, Android, Robotics SDK
+
+### 🧠 Timo AI Robot Assistant
+
+A Python-based intelligent robotics assistant project focused on natural-language interaction and speech-enabled robotic applications.
+
+**Technologies:** Python, FastAPI, Speech Recognition, AI Integration
+
+*Additional implementation details and a public demo can be shared when available.*
 
 ---
 
-⭐ Open to collaboration on Python backend, AI agents, automation, and robotics projects.
+## 🎯 What I Can Build
+
+- Scalable Python backend systems and REST APIs
+- AI agents and intelligent virtual assistants
+- Workflow automation and third-party API integrations
+- Computer vision and face recognition applications
+- Voice-enabled robotics applications
+- Custom Django and FastAPI web applications
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-mojaver&theme=github)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on innovative projects involving **Python, Backend Development, AI Agents, Automation, and Robotics**.
+
+📧 **Email:** mojaver.programmer@gmail.com
+
+💼 **LinkedIn:** [Babak Mojaver](https://www.linkedin.com/in/babak-mojaver/)
+
+💻 **GitHub:** [python-mojaver](https://github.com/python-mojaver)
+
+---
+
+<div align="center">
+
+### 🚀 Turning Ideas Into Intelligent Solutions
+
+**Open to relevant software development projects and professional collaborations.**
+
+</div>
